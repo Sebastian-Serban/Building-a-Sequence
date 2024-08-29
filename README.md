@@ -36,3 +36,7 @@ Digits Combinations   Obtained Number
 <pre style="display: none;"><code class="language-javascript"><span class="cm-variable">procSeq</span>(<span class="cm-number">230</span>, <span class="cm-number">15</span>, <span class="cm-number">8</span>) <span class="cm-operator">--</span><span class="cm-operator">-</span><span class="cm-operator">&gt;</span> [<span class="cm-number">4</span>, <span class="cm-number">218</span>, <span class="cm-number">358</span>, <span class="cm-number">1152</span>]
 </code></pre>
 
+Run the main.py file
+```bash
+python main.py
+```
