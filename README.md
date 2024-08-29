@@ -1,4 +1,4 @@
-# Building-a-Sequence
+# Building a Sequence Cocatenating Digits with a Given Order
 
 <p>You will receive an uncertain amount of integers in a certain order <code>k1, k2, ..., kn</code>.</p>
 
